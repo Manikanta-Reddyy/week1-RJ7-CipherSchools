@@ -23,7 +23,7 @@
 //     setTimeout(()=>{
 //         console.log(n1+n2);
 //         sum = n1 + n2;
-//     },5000);
+//     },5000); 
 //     return sum;
 // }
 // console.log(addTwoNumber(3,4))
